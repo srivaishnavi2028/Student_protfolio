@@ -8,3 +8,8 @@ hii'
 ## About Me
 
 I am Sri Vaishnavi, a B.Tech student interested in software development.
+## Skills
+
+- Java
+- Git & GitHub
+- SQL
